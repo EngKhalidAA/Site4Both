@@ -1,0 +1,22 @@
+{
+  "name": "Al Siraaj Students Portal",
+  "short_name": "Al Siraaj",
+  "description": "Al Siraaj Students Portal – Macad & Private Systems",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#1a1a2e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
